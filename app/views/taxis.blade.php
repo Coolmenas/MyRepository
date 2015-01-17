@@ -141,7 +141,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 </head>
 
-<body background = 'http://www.newburytaxi.biz/communities/9/004/011/308/709//images/4582545841.gif'>
+<body background = 'http://www.psdgraphics.com/file/colorful-triangles-background.jpg'>
 <div id="googleMap" style="width:80%;height:70%;"></div>
 
 </body>
